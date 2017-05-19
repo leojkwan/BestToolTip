@@ -18,11 +18,10 @@ Pod::Spec.new do |s|
   s.name         = "ToolTip"
   s.version      = "1.0.0"
   s.summary      = "A short description of ToolTip."
-  s.description  = "The best tool tip."
+  s.description  = "The best tool tip. The best tool tip. The best tool tip."
   s.homepage     = "http://leojkwan.com"
 
-  s.homepage     = "http://EXAMPLE/ToolTip"
-  # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
+"www.example.com/screenshots_2.gif"
 
 
   # ―――  Spec License  ――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
@@ -34,7 +33,6 @@ Pod::Spec.new do |s|
 
   s.license      = "MIT"
   
-
   s.author             = { "Leo Kwan" => "leokwanbt14@gmail.com" }
   
 
